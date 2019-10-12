@@ -1,0 +1,249 @@
+{
+    "categories":[
+        {
+            "id":1,
+            "name":"Rau Xanh",
+            "images" : [
+                {
+                    "url":"https://scontent.fhan3-2.fna.fbcdn.net/v/t1.0-9/72073079_1288827704631452_6752726944900448256_n.jpg?_nc_cat=103&_nc_oc=AQlmsktOggOPRigs8qrNSoBc7gBVILUONTZJllFrYyPpnYc7uIq4d-hKINDAOc89z-A&_nc_ht=scontent.fhan3-2.fna&oh=06bdcf45195b1cdd56afbe005997fef6&oe=5E2F3E8D"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "name":"Món Chay",
+            "images" : [
+                {
+                    "url":"https://scontent.fhan3-1.fna.fbcdn.net/v/t1.0-9/71539045_1288827657964790_894610678092922880_n.jpg?_nc_cat=111&_nc_oc=AQnyM0Ks3l2eiFIoZJ8kxLXxNe2pP5notxd8FPP_N-TnlPCOV4BMAQBtmLVehaROamY&_nc_ht=scontent.fhan3-1.fna&oh=11d8e44f1f57afc328583dd14b365c3f&oe=5DFDC20E"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "name":"Thịt Gà",
+            "images" : [
+                {
+                    "url":"https://scontent.fhan4-1.fna.fbcdn.net/v/t1.0-9/71174993_1288827721298117_4045665403907604480_n.jpg?_nc_cat=105&_nc_oc=AQnYdU6N_fU_gguB5WM2LVFqu2hNMEaOOeshBPg1EO8RV4SGypQbuTtktB39f52V_UQ&_nc_ht=scontent.fhan4-1.fna&oh=fe55b8f6f6ff51bdd4997563888cb9ac&oe=5E35BCD3"
+                }
+            ]
+        },
+        {
+            "id":4,
+            "name":"Thịt Lợn",
+            "images" : [
+                {
+                    "url":"https://scontent.fhan3-3.fna.fbcdn.net/v/t1.0-9/71335213_1288827751298114_5274354065805934592_n.jpg?_nc_cat=100&_nc_oc=AQnMPXIvjeJvdX7rNIBc7q1kWFC27nfVvjz5mtRuEB81N_9LqKTH8HadaZNT6eGPTH4&_nc_ht=scontent.fhan3-3.fna&oh=60b20c87cc40792be56ff420bdc19b3b&oe=5E315A6E"
+                }
+            ]
+        },
+        {
+            "id":5,
+            "name":"Combo siêu rẻ",
+            "images" : [
+                {
+                    "url":"https://scontent.fhan3-3.fna.fbcdn.net/v/t1.0-9/71065896_1288827661298123_2619490228729020416_n.jpg?_nc_cat=100&_nc_oc=AQkK5davZbq08S4Kncdz8Q5yhdE7fAR-mb_t1p7iENFARjSDB-WPVSrpZwgO8B8o3Ow&_nc_ht=scontent.fhan3-3.fna&oh=a709242d3953e3e09e1a9ac80ad79ea6&oe=5E2609F8"
+                }
+            ]
+        }
+    ],
+    "products":[
+        {
+            "id":1,
+            "images":[
+                {
+                    "url":"https://image-us.eva.vn/upload/4-2018/images/2018-12-13/1544691017-791-suon-xao-chua-ngot-suon-xao-chua-ngot-11-1460167252-width500height377-1544691017-width500height377.jpg"
+                }
+            ],
+            "name":"Sườn chua ngọt",
+            "price": "40.000 VND",
+            "phone":"0965612597",
+            "category":4
+        },
+        {
+            "id":2,
+            "images":[
+                {
+                    "url":"https://amthucnamchau.org/wp-content/uploads/2017/07/cach-nau-mon-dau-phu-sot-ca-chua-thom-ngon-ma-lai-tiet-kiem.jpg"
+                }
+            ],
+            "name":"Đậu sốt",
+            "price": "10.000 VND",
+            "phone":"0965612597",
+            "category":2
+        },
+
+        {
+            "id":3,
+            "images":[
+                {
+                    "url":"https://cdn.huongnghiepaau.com/wp-content/uploads/2019/01/com-ga-xoi-mo.jpg"
+                }
+            ],
+            "name":"Cơm gà",
+            "price": "20.000 VND",
+            "phone":"0965612597",
+            "category":5
+        },
+        {
+            "id":4,
+            "images":[
+                {
+                    "url":"http://giadinh.mediacdn.vn/k:2016/rau-muong-1464597246331/5-mon-rau-xao-toi-ngon-mieng-troi-com-cho-ngay-he-mat-troi.jpg"
+                }
+            ],
+            "name":"Muống xào tỏi",
+            "price": "5.000 VND",
+            "phone":"0965612597",
+            "category":1
+        },
+        {
+            "id":5,
+            "images":[
+                {
+                    "url":"http://giadinh.mediacdn.vn/k:2016/rau-lang-1464597246292/5-mon-rau-xao-toi-ngon-mieng-troi-com-cho-ngay-he-mat-troi.jpg"
+                }
+            ],
+            "name":"Rau lang xào tỏi",
+            "price": "5.000 VND",
+            "phone":"0965612597",
+            "category":1
+        },
+        {
+            "id":6,
+            "images":[
+                {
+                    "url":"http://giadinh.mediacdn.vn/k:2016/bong-bi-1464597246357/5-mon-rau-xao-toi-ngon-mieng-troi-com-cho-ngay-he-mat-troi.jpg"
+                }
+            ],
+            "name":"Bông bí xào tỏi",
+            "price": "5.000 VND",
+            "phone":"0965612597",
+            "category":1
+        },
+        {
+            "id":7,
+            "images":[
+                {
+                    "url":"http://giadinh.mediacdn.vn/k:2016/mong-toi-1464597246237/5-mon-rau-xao-toi-ngon-mieng-troi-com-cho-ngay-he-mat-troi.jpg"
+                }
+            ],
+            "name":"Mùng tơi xào tỏi",
+            "price": "5.000 VND",
+            "phone":"0965612597",
+            "category":1
+        },
+        {
+            "id":8,
+            "images":[
+                {
+                    "url":"http://giadinh.mediacdn.vn/k:2016/mong-toi-1464597246237/5-mon-rau-xao-toi-ngon-mieng-troi-com-cho-ngay-he-mat-troi.jpg"
+                }
+            ],
+            "name":"Mùng tơi xào tỏi",
+            "price": "5.000 VND",
+            "phone":"0965612597",
+            "category":1
+        },
+        {
+            "id":9,
+            "images":[
+                {
+                    "url":"http://giadinh.mediacdn.vn/k:2016/mong-toi-1464597246237/5-mon-rau-xao-toi-ngon-mieng-troi-com-cho-ngay-he-mat-troi.jpg"
+                }
+            ],
+            "name":"Mùng tơi xào tỏi",
+            "price": "5.000 VND",
+            "category":1
+        },
+        {
+            "id":10,
+            "images":[
+                {
+                    "url":"http://giadinh.mediacdn.vn/k:2016/mong-toi-1464597246237/5-mon-rau-xao-toi-ngon-mieng-troi-com-cho-ngay-he-mat-troi.jpg"
+                }
+            ],
+            "name":"Mùng tơi xào tỏi",
+            "price": "5.000 VND",
+            "category":1
+        }
+
+    ],
+    "infos":[
+        {
+            "id":1,
+            "nameApp":"Cơm Sinh Viên",
+            "Facebook":"https://www.facebook.com/truongvantruong1997",
+            "Email":"buivanchuongceo@gmail.com",
+            "SMS":"0965612597",
+            "Phone":"0965612597",
+            "info":"Cơm sinh viên siêu ngon, siêu rẻ và an toàn vệ sinh thực phẩm. HOTLINE : 0965612597"
+        }
+        
+    ],
+    "camnang":[
+        {
+            "id":1,
+            "name":"10 tác dụng không ngờ của rau muống",
+            "images":[
+                {
+                    "url":"http://giadinh.mediacdn.vn/k:2016/rau-muong-1464597246331/5-mon-rau-xao-toi-ngon-mieng-troi-com-cho-ngay-he-mat-troi.jpg"
+                }
+            ]
+        },
+        {
+            "id":2,
+            "name":"Những tác dụng tuyệt vời của bông bí mọi người không ngờ tới",
+            "images":[
+                {
+                    "url":"http://giadinh.mediacdn.vn/k:2016/mong-toi-1464597246237/5-mon-rau-xao-toi-ngon-mieng-troi-com-cho-ngay-he-mat-troi.jpg"
+                }
+            ]
+        },
+        {
+            "id":3,
+            "name":"Tác dụng của đậu phụ tốt cho sức khỏe của bạn thế nào?",
+            "images":[
+                {
+                    "url":"https://hellobacsi.com/wp-content/uploads/2019/01/tac-dung-cua-dau-phu-1024x666.png?x23999"
+                }
+            ]
+        },
+        {
+            "id":4,
+            "name":"13 công dụng chữa bệnh không ngờ của rau mồng tơi",
+            "images":[
+                {
+                    "url":"http://vuahatgiong.com/wp-content/uploads/2015/03/rau-mung-toi.jpg"
+                }
+            ]
+        },
+        {
+            "id":5,
+            "name":"Ăn loại thịt này hằng ngày nhận ngay 10 lợi ích sức khỏe thần kỳ",
+            "images":[
+                {
+                    "url":"https://anh.24h.com.vn/upload/4-2017/images/2017-12-29/1514521330-522-1-1514516320-width600height450.jpg"
+                }
+            ]
+        }
+    ],
+    "chitiet":[
+        {
+            "id":1,
+            "noidung":"Tốt cho tim mạch, ngăn ngừa tiểu đường, điều trị thiếu máu hay tăng cường hệ miễn dịch là những lợi ích của rau muống có thể bạn chưa biết.Rau muống là lựa chọn phù hợp cho những ai muốn giảm cân và lượng cholesterol tự nhiên. Một nghiên cứu được tiến hành trên chuột đã chứng minh rau muống còn giúp hạn chế triglycoside (chỉ số mỡ máu) .Theo Medical Health Guide, rau muống được sử dụng trong y học cổ truyền Ấn Độ để điều trị vàng da và các vấn đề về gan. Một nghiên cứu đã chứng minh rằng loại rau này giúp chống lại các hóa chất gây hại và quá trình oxy hóa nhờ enzym giải độc, đồng thời loại bỏ các gốc tự do.",
+            "camnang":1
+        },
+        {
+            "id":2,
+            "noidung":"Bí ngô hay còn gọi là bí đỏ, là loại cây rất phổ biến ở nước ta. Nó dễ thích nghi với nhiều vùng và được sử dụng nhiều trong các bữa ăn. Bông bí (hoa bí ngô) còn được sử dụng như một loại thuốc chữa bách bệnh.Bông bí chứa nhiều chất dinh dưỡng tốt cho sức khỏe. Ngoài ra, nó còn là bài thuốc Đông y hiệu quả chữa bệnh. Mọi người còn gọi đây là món “rau toàn năng” trên bàn ăn. Bông bí được xem là phần tinh túy nhất trên cây bí ngô, khi ăn thấy rất ngon, lại còn là vị thuốc quý.Hoa bí được rất nhiều chuyên gia dinh dưỡng nghiên cứu và kết luận là loại thực phẩm có giá trị dinh dưỡng cao. Nó cao hơn rất nhiều các loại rau khác.Trong bông bí phần phấn hoa được nghiên cứu và kết luận những tác dụng tuyệt vời đối với việc chăm sóc sức khỏe. Mọi người khá bất ngờ về công dụng giúp cải thiện sức khỏe, bảo vệ mạch máu, tim mạch, tăng trí thông minh…Bí là loại cây thanh mát, vì vậy bông bí còn có tác dụng thanh nhiệt, giải độc, tiêu sưng, cầm máu. Nhờ đó mà nó được sử dụng để chữa trị các bệnh ho, vàng da, kiết lỵ.",
+            "camnang":2
+        },
+        {
+            "id":3,
+            "noidung":"1. Ngừa bệnh tim mạch:Chất isoflavine trong đậu phụ có thể giúp giảm mức cholesterol xấu LDL. Vậy nên, việc tiêu thụ đậu phụ hàng ngày có thể giúp bạn duy trì cân nặng, chỉ số khối cơ thể (BMI) và lượng cholesterol, từ đó giảm nguy cơ mắc bệnh tim.Tiêu thụ protein từ đậu phụ thay cho protein động vật còn có thể giúp bạn giảm nguy cơ xơ vữa động mạch và huyết áp cao. Cục quản lý Thực phẩm và Dược phẩm Hoa Kỳ (FDA) cho biết bạn nên ăn ít nhất 25g protein đậu phụ mỗi ngày để kiểm soát mức cholesterol.",
+            
+            "camnang":3
+        }
+    ]
+   
+}
